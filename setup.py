@@ -14,6 +14,7 @@ requirements = [
     'Click>=6.0',
     'dlib-bin>=19.7',
     'numpy',
+    'opencv-python-headless==4.9.0.80',
     'Pillow'
 ]
 
